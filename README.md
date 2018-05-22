@@ -1,4 +1,4 @@
-# Rat-s-Competition-Genetic-Algorithm-based-symulation-
+# Rats Competition with Genetic Algorithms
 It's a simple simulaiton of 5 teams of the triangles ( called "rats" ) competing in finding way to the target. Each team has different mutation strenght and rate also teams evlolves separately from each other. 
 
 The general idea source:
