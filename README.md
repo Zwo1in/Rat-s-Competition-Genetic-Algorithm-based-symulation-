@@ -12,3 +12,7 @@ Teams evolves separately
 The weakness is a control system which lacks a ANN
 It uses some of my other repos: Game loop handler, SAT colsiion detection and sorts
 Enjoy watching!
+
+It uses 2 of my other repos
+https://github.com/Zwo1in/Colsion-detection-based-on-SAT
+https://github.com/Zwo1in/Game-loop-handler-for-SFML
