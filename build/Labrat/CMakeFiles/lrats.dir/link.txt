@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../liblrats.a  CMakeFiles/lrats.dir/dna.cpp.o CMakeFiles/lrats.dir/geneticAlgorithm.cpp.o CMakeFiles/lrats.dir/drawable.cpp.o CMakeFiles/lrats.dir/labRat.cpp.o CMakeFiles/lrats.dir/quicksort.cpp.o
-/usr/bin/ranlib ../../liblrats.a
