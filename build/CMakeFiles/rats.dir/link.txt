@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/rats.dir/src/main.cpp.o  -o ../bin/rats -Wl,-rpath,/home/mzwolins/Workspace/GA/Rats ../bin/libcore.a ../liblrats.a ../libclock.so -lsfml-graphics -lsfml-window -lsfml-system ../libsat.so 

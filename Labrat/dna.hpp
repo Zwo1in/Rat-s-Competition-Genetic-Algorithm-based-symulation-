@@ -18,6 +18,7 @@
 #include <vector>
 #include <ctime>
 #include <cmath>
+#include <cstdlib>
 
 class DNA {
     std::vector< double > genes;

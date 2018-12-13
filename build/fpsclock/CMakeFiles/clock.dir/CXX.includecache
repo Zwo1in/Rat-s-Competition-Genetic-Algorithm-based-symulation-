@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mzwolins/Workspace/GA/Rats/fpsclock/fpsClock.cpp
+fpsClock.hpp
+/home/mzwolins/Workspace/GA/Rats/fpsclock/fpsClock.hpp
+
+/home/mzwolins/Workspace/GA/Rats/fpsclock/fpsClock.hpp
+SFML/System/Clock.hpp
+-
+SFML/System/Time.hpp
+-
+

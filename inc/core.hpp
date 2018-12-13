@@ -9,9 +9,9 @@
 // Has main game loop and event handling in it
 // Also contains the config variables
 
-#include "geneticAlgorithm.hpp"
+#include <geneticAlgorithm.hpp>
 // game loop handling clock repo
-#include "fpsClock.hpp"
+#include <fpsClock.hpp>
 #include "population.hpp"
 #include <sstream>
 

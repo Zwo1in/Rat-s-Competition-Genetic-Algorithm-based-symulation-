@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../bin/libcore.a  CMakeFiles/core.dir/src/core.cpp.o CMakeFiles/core.dir/src/population.cpp.o
+/usr/bin/ranlib ../bin/libcore.a

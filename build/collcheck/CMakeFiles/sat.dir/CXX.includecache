@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mzwolins/Workspace/GA/Rats/collcheck/separatedAxisTheorem.cpp
+separatedAxisTheorem.hpp
+/home/mzwolins/Workspace/GA/Rats/collcheck/separatedAxisTheorem.hpp
+
+/home/mzwolins/Workspace/GA/Rats/collcheck/separatedAxisTheorem.hpp
+cmath
+-
+array
+-
+SFML/System/Vector2.hpp
+-
+

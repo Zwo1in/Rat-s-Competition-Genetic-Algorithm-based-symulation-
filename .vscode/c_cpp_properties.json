@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/",
+                "/usr/include/",
+                "/usr/include/c++/7",
+                "/usr/include/c++/7/tr1",
+                "/usr/include/c++/8",
+                "/usr/include/c++/8/tr1"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++-8",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
