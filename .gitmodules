@@ -1,6 +1,6 @@
 [submodule "Game-loop-handler-for-SFML"]
-	path = Game-loop-handler-for-SFML
+	path = Game_loop_handler_for_SFML
 	url = https://github.com/Zwo1in/Game-loop-handler-for-SFML.git
 [submodule "Colsion-detection-based-on-SAT"]
-	path = Colsion-detection-based-on-SAT
+	path = Colsion_detection_based_on_SAT
 	url = https://github.com/Zwo1in/Colsion-detection-based-on-SAT
